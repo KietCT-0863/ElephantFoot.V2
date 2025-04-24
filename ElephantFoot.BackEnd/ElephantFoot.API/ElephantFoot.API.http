@@ -1,0 +1,6 @@
+@ElephantFoot.API_HostAddress = http://localhost:5031
+
+GET {{ElephantFoot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
